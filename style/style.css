@@ -1,0 +1,9 @@
+
+
+main > article:nth-child(odd){
+    background-color: grey;
+}
+
+main > article:nth-child(even){
+    background-color: greenyellow;
+}
